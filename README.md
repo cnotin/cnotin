@@ -1,7 +1,7 @@
 ### Clément Notin
 
+- 🔭 Security researcher
 - 😈 Pentester
-- 🔭 Researcher
 - 🌱 Developer
 
 💜 I like coding and contributing back to many opensource security tools I use whenever I find bugs or enhancements!
